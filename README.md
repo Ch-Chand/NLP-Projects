@@ -1,2 +1,2 @@
 # NLP-Projects
-Will contain NLP projects
+This Repo has the Natural Language Projects that has been done by me using Python
